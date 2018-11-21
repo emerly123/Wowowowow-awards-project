@@ -1,0 +1,36 @@
+.winner{
+    font-weight:bold;
+    font-size:30px;
+    color:red;
+    text-decoration:underline;
+    font-family: 'Anton', sans-serif;
+}
+body{
+    background:url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/83/10/1657c844b8a1130.jpg);
+}
+.ba{
+    color:blue;
+    font-size:20px;
+}
+.bt{
+    color:#a2ba5c;
+    font-size:20px;
+}
+.actor{
+    font-size:20px;
+    color:#ff8c00;
+}
+h1{
+    color:white;
+    text-align:center;
+    text-decoration:underline; 
+    font-family: 'Lobster', cursive;
+}
+.rb{
+    font-size:20px;
+    color:#93e4f0;
+}
+.title{
+    font-size:40px;
+    color:#c8537b;
+}
